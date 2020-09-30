@@ -398,7 +398,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #modal {
-  background: url("../img/borderless/drivingunder.png");
+  background: url("../img/borderless/autoinsurance.jpg");
   /* Control the height of the image */
   min-height: 380px;
   /* Center and scale the image nicely */
@@ -406,6 +406,11 @@ h1, h2, h3, h4, h5, h6 {
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
+}
+#modal h5 {
+  color: #9c288f;
+  margin-bottom: 20px;
+  font-size: 24px;
 }
 #hero:before {
   content: "";
