@@ -398,7 +398,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #modal {
-  background: url("../img/borderless/autoinsurance.jpg");
+  background: url("../img/borderless/");
   /* Control the height of the image */
   min-height: 380px;
   /* Center and scale the image nicely */
